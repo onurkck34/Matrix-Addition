@@ -5,4 +5,3 @@ result = [[0,0,0],[0,0,0],[0,0,0]]
 for i in range(len(x)):
     for j in range(len(y)):
         result[i][j] = x[i][j]+y[i][j]
-print(result)
